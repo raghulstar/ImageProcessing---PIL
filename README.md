@@ -66,7 +66,7 @@ plt.axis('off')
 # Saving the final processed image
 edge.save('/content/drive/My Drive/processed.png')
 
-##📊 Output
+📊 **Output**
 The code generates several processed images, including:
 
 - **Greyscale Image**: Converts the original image to greyscale.
@@ -74,10 +74,11 @@ The code generates several processed images, including:
 - **Rotated Image**: Rotates the image by 45 degrees.
 - **Blurred and Edge Detected Image**: Applies Gaussian blur and detects edges.
 - **Filled Edge Image**: Enhances edge visibility with color changes.
-  
-##📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-##🙌 Acknowledgments
+📄 **License**
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+🙌 **Acknowledgments**
 - **[Google Colab](https://colab.research.google.com)**: For providing a robust platform to run Python code in the cloud.
 - **[Pillow (PIL)](https://python-pillow.org/)**: For powerful and easy-to-use image processing capabilities.
+
